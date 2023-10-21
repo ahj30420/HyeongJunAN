@@ -31,15 +31,6 @@
     - jsp
     - Mysql
     - JavaScript
-    
- - 실시간 버스 모니터링 서비스(공공API)
-    - HTML
-    - Mongo DB
-    - Java
-    - Js
-    
- - 이미지 다중 분류모델 구현
-    - Python
 
 ## Experience
 
