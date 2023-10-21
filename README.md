@@ -18,24 +18,21 @@
    
 ## Projects 
  
- - MVC 패턴으로 레시피 공유 웹사이트
+ - 통합 온라인 설문조사 사이트 (Servlet + JSP)
     - Java
-    - JavaScript
     - jsp
     - Mysql
-      
- - MVC 패턴으로 종합 쇼핑몰 웹사이트
-    - Java
     - JavaScript
+    - HTML
+    - CSS
+      
+ - 종합 쇼핑몰 웹사이트(Servlet + JSP)
+    - Java
     - jsp
-    - Mysql 
-     
- - 지역 스터디 모임 커뮤니티 웹사이트
-    - Nodejs
-    - html (ejs)
-    - MongoDB
+    - Mysql
+    - JavaScript
     
- - 공공API를 활용한 실시간 지하철 모니터링 서비스
+ - 실시간 버스 모니터링 서비스(공공API)
     - HTML
     - Mongo DB
     - Java
@@ -43,10 +40,6 @@
     
  - 이미지 다중 분류모델 구현
     - Python
-
- - 실시간 이미지 모자이크 구현
-    - Python(openCV)
-
 
 ## Experience
 
